@@ -1,0 +1,4 @@
+trl==0.9.4
+peft==0.14.0
+bitsandbytes==0.43.1
+accelerate==0.34.2
