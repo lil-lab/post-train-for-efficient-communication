@@ -1,6 +1,6 @@
 # Post-training for Efficient Communication via Convention Formation
 
-This is the official repo for our paper: [arxiv link]
+This is the official repo for our paper: [Post-training for Efficient Communication via Convention Formation](https://arxiv.org/pdf/2508.06482)
 
 Yilun Hua, Evan Wang, and Yoav Artzi
 
@@ -25,6 +25,7 @@ The `post_train_efficiency/post-train` folder provides the python scripts and ex
 See `post_train_efficiency/refgame_eval` for running the text-only reference game evaluation. 
 
 See `post_train_efficiency/doc_grounded_eval` for running the document-grounded evaluation. 
+
 
 
 
